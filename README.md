@@ -1,5 +1,6 @@
-## Hi there 👋
+Founder of [FilterGrade](https://filtergrade.com). Co-Founder of [Prompt Manage](https://promptmanage.com/about). Working on [GlutenBee](https://glutenbee.com), [Moloney Creative Agency](https://moloneycreativeagency.com), and [Timestamp](https://timestamp-art.com).
 
+Say hi on X, Instagram, and read my latest [articles on Medium](https://medium.com/@moloneymike)
 <!--
 **mjmolo/mjmolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
