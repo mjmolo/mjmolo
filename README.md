@@ -1,3 +1,5 @@
+## About Mike Moloney
+
 Founder of [FilterGrade](https://filtergrade.com). Co-Founder of [Prompt Manage](https://promptmanage.com/about). Working on [GlutenBee](https://glutenbee.com), [Moloney Creative Agency](https://moloneycreativeagency.com), and [Timestamp](https://timestamp-art.com).
 
 Say hi on [X](https://x.com/moloneymike), [Instagram](https://instagram.com/mjmolo), and read my latest [articles on Medium](https://medium.com/@moloneymike).
